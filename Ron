@@ -1,0 +1,6 @@
+mkdir workshop4-2
+cd workshop4-2
+mkdir directory1
+mkdir file1
+cd ./directory1
+mkdir file2
